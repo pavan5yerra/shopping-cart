@@ -1,0 +1,9 @@
+.InputField > input {
+  background-color: orange;
+  margin: 10px;
+  padding: 13px;
+  font-size: 15px;
+  font-weight: bolder;
+  border-radius: 5px;
+  color: grey;
+}
